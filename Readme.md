@@ -8,18 +8,18 @@ against any type of code (JS / PY)
 
 ##Instructions
 
-usage: metrix.js <solution> <function-name> <data>
+usage: metrix.js *solution* *function-name* *data>*
 
- @path-to-solution:  The filename for your js solution
- @function-name:     The name of the action function in solution
- @path-to-data:      The filename containing large sample
-                     input data to be tested against your
-                     provided solution
+ @path-to-solution:  The filename for your js solution  
+ @function-name:     The name of the action function in solution  
+ @path-to-data:      The filename containing large sample  
+                     input data to be tested against your  
+                     provided solution  
 
-Example: node metrix isPalindrome.js  isPalindrome  data.txt
+Example: node metrix isPalindrome.js  isPalindrome  data.txt  
 
-NOTE: In this example, data.txt may contain several palindromes
-      separated by a new line as follows:
+NOTE: In this example, data.txt may contain several palindromes  
+      separated by a new line as follows:  
 
       abba
       racecar
@@ -27,9 +27,9 @@ NOTE: In this example, data.txt may contain several palindromes
       superlongsuperlongsuperlongsuperlongsuperlong
       ... etc
 
-      In other cases where there are multiple input arguments
-      each line will contain an argument followed by a
-      comma as follows:
+In other cases where there are multiple input arguments  
+each line will contain an argument followed by a  
+comma as follows:  
 
       arg1,arg2,arg3
       arg1,arg2,arg3
