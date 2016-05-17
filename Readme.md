@@ -1,5 +1,7 @@
 #Metrix
 
+[![Join the chat at https://gitter.im/f-u-n/metrix](https://badges.gitter.im/f-u-n/metrix.svg)](https://gitter.im/f-u-n/metrix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Run this tool against your submissions to measure some cool metrics such as character count and performance
 
 This is a work in progress, for now only the JS solution is being implemented. Eventually a python
